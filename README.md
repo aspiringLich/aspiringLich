@@ -1,4 +1,4 @@
-![Alt text](society.jpg "floper")
+<img src="society.jpg" alt="flop failed to load :(" width="128"/>
 
 All hail lord flop, their judgement stands above all others their presence a shining beacon of light in a hopeless dark world. May their wisdom may guide us all to a brighter happier future. May their eternal existince bring sanctity and comfort through the most troubling of times.
 
