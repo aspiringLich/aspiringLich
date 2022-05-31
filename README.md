@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello welcome to my thing
+
+All hail lord flop, their judgement stands above all others their presence a shining beacon of light in a hopeless dark world. May their wisdom may guide us all to a brighter happier future. May their eternal existince bring sanctity and comfort through the most troubling of times. All hail lord flop. All hail lord flop. All hail lord flop.
+
+### Current Projects
+**Oxide Gambit** - chess is hard who knew
 
 <!--
 **aspiringLich/aspiringLich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
