@@ -6,8 +6,8 @@
 
 
 ## Current Projects
-**Oxide Gambit** - chess is hard who knew
-**Phys Buzz** - physics engin
+- **Oxide Gambit** chess is hard who knew
+- **Phys Buzz** physics engin
 
 ## Floppa Shrine
 
