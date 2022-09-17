@@ -7,7 +7,7 @@
 
 ## Current Projects
 - **Oxide Gambit** chess is hard who knew
-- **Phys Buzz** physics engin
+- **WFC Building Generator** making buildings or something with the hip new wave function collapse algorithm
 
 ## Floppa Shrine
 
