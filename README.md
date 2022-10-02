@@ -6,8 +6,9 @@
 
 
 ## Current Projects
-- **Oxide Gambit** chess is hard who knew
-- **WFC Building Generator** making buildings or something with the hip new wave function collapse algorithm
+- **Oxide Gambit (Working)** chess is hard who knew
+- **WFC Building Generator (Working On)** making buildings or something with the hip new wave function collapse algorithm
+- **Drone Controller (Working On)** a physics based drone simulator 
 
 ## Floppa Shrine
 
