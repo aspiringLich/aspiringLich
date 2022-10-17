@@ -8,7 +8,7 @@
 ## Current Projects
 - **Oxide Gambit (Working)** chess is hard who knew
 - **Drone Controller (In Progress)** a physics based drone simulator 
-- **Website** (In Progress) i'll finall be cool all my nerd friends can stop bullying me
+- **Website (In Progress)** i'll finall be cool all my nerd friends can stop bullying me
 
 - **WFC Building Generator (Backburner)** making buildings or something with the hip new wave function collapse algorithm
 
