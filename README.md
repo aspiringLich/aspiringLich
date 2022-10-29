@@ -6,10 +6,9 @@
 
 
 ## Current Projects
-- **Oxide Gambit (Working)** chess is hard who knew
-- **Drone Controller (In Progress)** a physics based drone simulator 
+- **Oxide Gambit (In Progress)** chess is hard who knew
 - **Website (In Progress)** i'll finall be cool all my nerd friends can stop bullying me
-
+- **Drone Controller (Backburner)** a physics based drone simulator 
 - **WFC Building Generator (Backburner)** making buildings or something with the hip new wave function collapse algorithm
 
 ## Floppa Shrine
