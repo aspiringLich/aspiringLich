@@ -1,35 +1,25 @@
-## Knowlege
- - HTML/CSS/JS (meh)
- - Java (sort of)'
- - C / C++ (kinda)
- - Rust (eh)
+### Clicky: [Website](https://isospin.dev)
 
+![aspiringLich's github stats](https://github-readme-stats.vercel.app/api?username=aspiringLich&theme=vue-dark&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aspiringLich&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+hi. I'm a guy who actively chooses to spend his free time very poorly.
 
 ## Current Projects
-- **Oxide Gambit (In Progress)** chess is hard who knew
-- **Website (In Progress)** i'll finall be cool all my nerd friends can stop bullying me
-- **Drone Controller (Backburner)** a physics based drone simulator 
-- **WFC Building Generator (Backburner)** making buildings or something with the hip new wave function collapse algorithm
+| Link | Status | Description |
+| :----- | :------ | :------------- |
+|[Isospin](https://github.com/aspiringLich/isospin)|🔵 Works, but is unfinished|A personal website, go check it out!|
+|[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress|A chess program / bot, currently working on a rewrite which I can build with web assembly and show on my website. |
+|[Drone Controller](https://github.com/aspiringLich/drone_controller)|🔥 Backburner|A physically simulated thruster drone that follows your mouse and pathfinds or something.|
+|[WFC Building Generator](https://github.com/aspiringLich/wfc_building_generator)|🔥🔥 Back of the Backburner|a building generator using WFC. May come back to this someday.|
+
 
 ## Floppa Shrine
 
 <div><img align="right" src="society.jpg" alt="flop failed to load :(" width="128"/></div>
 
 `
-All hail lord flop, their judgement stands above all others, their presence a shining beacon of light in a hopeless dark world. May their wisdom may guide us all to a brighter happier future. May their eternal existence bring sanctity and comfort through the most troubling of times. May their radiant glory ease the sick and improve the lives of everyone who it comes into contact with. May the, nay, our great lord flop shower us with gifts beyond our imagining with stoic indifference and humility. All hail lord flop.
+Floppa <3
 `
 
-<!--
-**aspiringLich/aspiringLich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
