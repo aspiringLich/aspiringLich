@@ -6,10 +6,18 @@
 
 hi. I'm a guy who actively chooses to spend his free time very poorly.
 
+<!--  
+✅ fucking finally
+🟢 Done! sorta...
+🔵 minimum viable product
+🟡 In progress
+🔴 uh oh
+🔥 Backburner
+-->
 ## Current Projects
 | Link | Status | Description |
 | :----- | :------ | :------------- |
-|[Isospin](https://github.com/aspiringLich/isospin)|🔵 Works, but is unfinished|A personal website, go check it out!|
+|[Isospin](https://github.com/aspiringLich/isospin)|🟢 Done kinda sorta|A personal website, go check it out!|
 |[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress|A chess program / bot, currently working on a rewrite which I can build with web assembly and show on my website. |
 |[Drone Controller](https://github.com/aspiringLich/drone_controller)|🔥 Backburner|A physically simulated thruster drone that follows your mouse and pathfinds or something.|
 |[WFC Building Generator](https://github.com/aspiringLich/wfc_building_generator)|🔥🔥 Back of the Backburner|a building generator using WFC. May come back to this someday.|
