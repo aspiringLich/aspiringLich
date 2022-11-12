@@ -12,16 +12,19 @@ hi. I'm a guy who actively chooses to spend his free time very poorly.
 🔵 minimum viable product
 🟡 In progress
 🔴 uh oh
+💭 thinking bout it
 🔥 Backburner
+
+BACKBURNER:
+|[WFC Building Generator](https://github.com/aspiringLich/wfc_building_generator)|🔥🔥 Back of the Backburner|a building generator using WFC. May come back to this someday.|
 -->
 ## Current Projects
 | Link | Status | Description |
 | :----- | :------ | :------------- |
 |[Isospin](https://github.com/aspiringLich/isospin)|🟢 Done kinda sorta|A personal website, go check it out!|
 |[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress|A chess program / bot, currently working on a rewrite which I can build with web assembly and show on my website. |
+|Yet Another Terminal Logging Crate (YATLC)|💭 Planned|i take 20 hours to make my own terminal logging crate instead of spending 20 minutes to find someone elses|
 |[Drone Controller](https://github.com/aspiringLich/drone_controller)|🔥 Backburner|A physically simulated thruster drone that follows your mouse and pathfinds or something.|
-|[WFC Building Generator](https://github.com/aspiringLich/wfc_building_generator)|🔥🔥 Back of the Backburner|a building generator using WFC. May come back to this someday.|
-
 
 ## Floppa Shrine
 
