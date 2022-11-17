@@ -23,7 +23,6 @@ BACKBURNER:
 | :----- | :------ | :------------- |
 |[Isospin](https://github.com/aspiringLich/isospin)|🟢 Done kinda sorta|A personal website, go check it out!|
 |[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress|A chess program / bot, currently working on a rewrite which I can build with web assembly and show on my website. |
-|[Yet Another Terminal & Utilities Crate (yatuc)](https://github.com/aspiringLich/yatuc)|💭 Planned|i take 20 hours to make my own terminal logging crate instead of spending 20 minutes to find someone elses. Also re-exports common stuff i use so i dont have to include it in every project.|
 |[Drone Controller](https://github.com/aspiringLich/drone_controller)|🔥 Backburner|A physically simulated thruster drone that follows your mouse and pathfinds or something.|
 
 ## Floppa Shrine
