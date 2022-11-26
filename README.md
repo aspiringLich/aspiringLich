@@ -23,6 +23,7 @@ BACKBURNER:
 | :----- | :------ | :------------- |
 |[Isospin](https://github.com/aspiringLich/isospin)|🟢 Done kinda sorta|A personal website, go check it out!|
 |[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress|A chess program / bot, currently working on a rewrite which I can build with web assembly and show on my website. |
+|[Marble Machine](https://github.com/aspiringLich/marble_machine)|🟡 In Progress (early stages)| A game. I can't really think of a good summary rn. |
 |[Drone Controller](https://github.com/aspiringLich/drone_controller)|🔥 Backburner|A physically simulated thruster drone that follows your mouse and pathfinds or something.|
 
 ## Floppa Shrine
