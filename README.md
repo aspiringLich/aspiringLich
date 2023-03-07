@@ -2,8 +2,6 @@
 
 ![aspiringLich's github stats](https://github-readme-stats.vercel.app/api?username=aspiringLich&theme=vue-dark&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aspiringLich&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 hi. I'm a guy who actively chooses to spend his free time very poorly.
 
 <!--  
