@@ -1,7 +1,5 @@
 ### Clicky: [Website](https://isospin.dev)
 
-![aspiringLich's github stats](https://github-readme-stats.vercel.app/api?username=aspiringLich&theme=vue-dark&show_icons=true)
-
 hi. I'm a guy who actively chooses to spend his free time very poorly.
 
 <!--  
