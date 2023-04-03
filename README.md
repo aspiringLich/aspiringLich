@@ -17,7 +17,7 @@ BACKBURNER:
 ## Current Projects
 | Link | Status | Description |
 | :----- | :------ | :------------- |
-|[Isospin](https://github.com/aspiringLich/isospin)|🟢 Done kinda sorta|A personal website, go check it out!|
+|[Amplitude](https://github.com/aspiringLich/amplitude)|🟡 In progress| A website for the RCSC to help learn programming! |
 |[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress| Chess bot but good this time |
 |[Marble Machine](https://github.com/aspiringLich/marble_machine)|🔥 Backburner| A game where you make a computer out of balls. |
 
