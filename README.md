@@ -1,6 +1,8 @@
 ### Clicky: [Website](https://isospin.dev)
 
-hi. I'm a guy who actively chooses to spend his free time very poorly.
+(if it's down i WILL cry) (Svelte rewrite coming soon™)
+
+hi. I actively choose to spend my free time very poorly.
 
 <!--  
 ✅ fucking finally
@@ -14,18 +16,5 @@ hi. I'm a guy who actively chooses to spend his free time very poorly.
 BACKBURNER:
 |[WFC Building Generator](https://github.com/aspiringLich/wfc_building_generator)|🔥🔥 Back of the Backburner|a building generator using WFC. May come back to this someday.|
 -->
-## Current Projects
-| Link | Status | Description |
-| :----- | :------ | :------------- |
-|[Amplitude](https://github.com/aspiringLich/amplitude)|🟡 In progress| A website for the RCSC to help learn programming! |
-|[Oxide Gambit](https://github.com/aspiringLich/oxide-gambit)|🟡 Rewrite in progress| Chess bot but good this time |
-|[Marble Machine](https://github.com/aspiringLich/marble_machine)|🔥 Backburner| A game where you make a computer out of balls. |
 
-## Floppa Shrine
-
-<div><img align="right" src="society.jpg" alt="flop failed to load :(" width="128"/></div>
-
-`
-Floppa <3
-`
-
+![society.jpg](society.jpg)
